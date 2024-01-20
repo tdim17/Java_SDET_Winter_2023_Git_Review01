@@ -6,7 +6,9 @@ public class HelloWorld {
 
 
         System.out.println("This is Hello World Class");
-        for (int i = 0; i < ; i++) {
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Hi");
+
             
         }
     }
